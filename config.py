@@ -4,7 +4,7 @@ import time
 # ── Telegram (non-sensitive — safe as defaults) ─────────────────────────────────
 API_ID      = os.getenv("API_ID", "2040")
 API_HASH    = os.getenv("API_HASH", "b18441a1ff607e10a989891a5462e627")
-OWNER_ID    = int(os.getenv("OWNER_ID", "6076474757"))
+OWNER_ID    = int(os.getenv("OWNER_ID", "740397179"))
 GROUP       = os.getenv("GROUP", "nub_coder_s")
 
 # ── Sensitive — must be set via environment, no defaults ────────────────────────
